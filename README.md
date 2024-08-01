@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dang Nhat Minh</h1>
 <h3 align="center">I'm a Senior Computer Science student in Danang University of Technology.This is my new github account !</h3>
-<img align="right" alt="Coding" width="400" src="[https://tenor.com/en-GB/view/mitsuru-adachi-touch-tatsuya-gif-22378458)](https://halcyonrealms.com/animation/japanese-gifs/)">
+<img align="right" alt="Coding" width="400" src="[[https://tenor.com/en-GB/view/mitsuru-adachi-touch-tatsuya-gif-22378458)](https://halcyonrealms.com/animation/japanese-gifs/)](https://i0.wp.com/halcyonrealms.com/blogpics/japgifA.gif?resize=500%2C288&ssl=1)">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linuxminhat" alt="linuxminhat" /></a> </p>
 
