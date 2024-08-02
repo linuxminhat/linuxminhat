@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dang Nhat Minh</h1>
 <h3 align="center">I'm a Senior Computer Science student in Danang University of Technology.This is my new github account !</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1vIWmvirBat-Xd3Ozp45O6jSgNW5K80s7dAFtLtMm8PngTVmbS7R-TWk_sJxZDyKtiJM&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/026/128/252/original/lennart-butz-idea5anim.gif?1587962316">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linuxminhat" alt="linuxminhat" /></a> </p>
 
