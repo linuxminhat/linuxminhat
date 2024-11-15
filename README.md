@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [testingQuizzProject](https://github.com/linuxminhat/testingQuizzProject)
+- 🔭 I’m currently taking internship/fresher in Rikkeisoft
 
 - 🌱 I’m currently learning **Ruby on Rails and Vue.js/Nuxt**
 
