@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails and Vue.js/Nuxt**
 
-- 📫 How to reach me **minhnhatdang2810@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/dang-nhat-minh-2810m2003/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
