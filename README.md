@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dang Nhat Minh</h1>
+<h1 align="center">Hi 👋, my name is Dang Nhat Minh</h1>
 <h2 align="center">I'm Senior Computer Science student in Danang University of Technology, Danang </h2>
 <h3 align="center">This is my new github account !</h3>
 <div align="center">
