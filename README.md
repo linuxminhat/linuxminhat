@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Dang Nhat Minh</h1>cxcxc
-<h2 align="center">I'm Senior Computer Scivcvcvcence studdsdsdent incsdsdsDananDDDcccg Universitdsdy of Technology, Danang </h2>
+<h2 align="center">I'm Senior Computer Science Student at University of Science and Technology</h2>
 <h3 align="center">This is my new github account !</h3>
 <div align="center">
     <img alt="Beautiful Japan" width="400" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif">
